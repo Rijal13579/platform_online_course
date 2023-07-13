@@ -171,7 +171,7 @@ $data = mysqli_query($conn, "SELECT * FROM kursus JOIN kategori USING(id_kategor
                   ?>
               <div class="single_course">
                 <div class="course_head">
-                  <img class="img-fluid" src="img/courses/c1.jpg" alt="" />
+                  <img class="img-fluid" src="img/courses/6.jpg" alt="" />
                 </div>
                 <div class="course_content">
                   <span class="price">50%</span>
